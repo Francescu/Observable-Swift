@@ -721,7 +721,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Observable;
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -737,7 +737,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.utdloc.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Observable;
 				SDKROOT = iphoneos;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
